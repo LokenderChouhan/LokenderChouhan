@@ -5,8 +5,8 @@
 </p>
 
 <p align="center">
-  <a href="mailto:lokdendrajdpr@gmail.com">📫 Contact Me</a> •
-  <a href="https://lokender-portfolio.netlify.app/">🌐 View My Portfolio</a>
+  <a taregt="_blank" href="mailto:lokdendrajdpr@gmail.com">📫 Contact Me</a> •
+  <a taregt="_blank" href="https://lokender-portfolio.netlify.app/">🌐 View My Portfolio</a>
 </p>
 
 <p align="center">
