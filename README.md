@@ -1,16 +1,16 @@
-## Hi there 👋
+<h1 align="center">Hi, I'm <a href="https://github.com/LokenderChouhan">@Lokender Chouhan</a> 👋</h1>
 
-<!--
-**LokenderChouhan/LokenderChouhan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  A versatile and passionate frontend developer with a strong foundation in both front-end and back-end technologies.
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  <a href="mailto:lokdendrajdpr@gmail.com">📫 Contact Me</a> •
+  <a href="https://lokender-portfolio.netlify.app/">🌐 View My Portfolio</a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=javascript,typescript,css,nodejs,react,nextjs,tailwind,docker,vite,webpack,mongodb,mysql" />
+  </a>
+</p>
